@@ -1,0 +1,16 @@
+{
+  "name": "challengetwo",
+  "version": "1.0.0",
+  "description": "Simple server creation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kiran Raj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "nodemailer": "^6.7.2"
+  }
+}
